@@ -1,0 +1,11 @@
+{
+    "users": [
+      {
+        "name": "Oleksandr",
+        "lastName": "Doroshev",
+        "email": "Doroshev@test.com",
+        "password": "Qwerty12345"
+      }
+    ]
+  }
+  
