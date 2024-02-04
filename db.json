@@ -1,6 +1,7 @@
 {
     "users": [
       {
+        "id": 1, // Уникальный идентификатор
         "name": "Oleksandr",
         "lastName": "Doroshev",
         "email": "Doroshev@test.com",
